@@ -4,126 +4,163 @@
 ---
 
 ## 🚀 About Me  
-I am an AI/MLOps engineer with industry-focused experience in **end-to-end machine learning**,  
-**deep learning**, **data engineering**, and **model evaluation pipelines**.  
-I hold a **Master’s Degree in Artificial Intelligence** and build production-ready ML systems  
-with clean engineering, automation, and scalability in mind.
+I am an **AI/MLOps Engineer** with a Master’s degree in **Artificial Intelligence** and extensive hands-on experience across:
 
-My work includes:
-- ML pipelines & automation  
-- Deep learning for medical imaging  
-- Spark-based data engineering  
-- Explainable AI  
-- Experiment tracking & reproducibility  
-- Deployment-oriented design (API-first, container-ready workflows)  
+- **Deep Learning & Medical AI**
+- **Machine Learning pipelines**
+- **Data Engineering with PySpark**
+- **Classical AI (SAT, Planning, Search)**
+- **Knowledge Graphs (RDF, SPARQL)**
+- **Automation & Python Engineering**
+
+I specialize in designing **scalable, reproducible, and production-ready ML systems**, combining modern ML methods with strong classical AI fundamentals.
 
 ---
 
 ## 🧠 Core Skills  
-### **Machine Learning & AI**
-- Transfer Learning, CNNs, MLPs, Attention Mechanisms  
-- Classical ML (KNN, RF, SVM, GBT, PCA/LDA)  
-- Explainable AI (Grad-CAM)  
-- Model ensembling, hyperparameter tuning  
-- Emotion recognition systems  
+
+### **Machine Learning & Deep Learning**
+- CNNs, Transfer Learning (ResNet, EfficientNet)
+- Attention Mechanisms, Grad-CAM
+- Classical ML: KNN, RF, SVM, PCA/LDA
+- Pipeline building (sklearn / PyTorch)
 
 ### **MLOps & Engineering**
-- ML Pipelines  
-- Experimentation (Cross-validation, training loops)  
-- Data preprocessing & feature engineering  
-- Reproducibility-first workflows  
-- Docker (containerized ML workloads)  
-- API development (FastAPI/Flask)
+- Dockerized ML workflows  
+- Experimentation & reproducibility  
+- Data preprocessing automation  
+- API-first design (FastAPI/Flask)
 
-### **Data Engineering**
-- PySpark: DataFrames, Streaming, MLlib  
-- SQL  
-- ETL, batch + streaming pipelines  
-- Graph analytics (PageRank, motifs, shortest paths)
+### **Big Data & Data Engineering**
+- PySpark (MLlib, Streaming, SQL DataFrames)
+- ETL pipelines & feature engineering
+- Graph algorithms (PageRank, shortest paths, motif analysis)
+
+### **Classical AI & Reasoning**
+- SAT solvers (PySAT)
+- Planning with PDDL + Pyperplan
+- Search algorithms (DFS, BFS)
+- Knowledge Graphs: RDF, SPARQL, Blazegraph
 
 ### **Tools**
-Python • PyTorch • TensorFlow • NumPy • Pandas • Sklearn  
-Spark • MLlib • Matplotlib • Linux • Git/GitHub • Docker • Jupyter  
+Python • PyTorch • TensorFlow • NumPy • Pandas  
+Spark • MLlib • Matplotlib • Docker • Linux • Git/GitHub  
 
 ---
 
-## 📂 **Highlighted Projects**
+# 📂 **PROJECTS**
 
-### 🔥 **Deep Learning: Diabetic Retinopathy Detection (DeepDRiD)**  
-*Deep Learning Course 2024*  
-- Fine-tuned **ResNet18**, **ResNet34**, **EfficientNet** on medical images  
-- Added **spatial attention mechanism** improving Kappa score  
-- Built **ensemble models** (stacking, bagging, boosting)  
-- Applied **image preprocessing** (CLAHE, Gaussian Blur, circle cropping)  
-- Built training/validation pipelines with metrics tracking  
-- Used **Grad-CAM** for explainability  
+# 🩺 **1. Deep Learning Projects**
+
+### 🔥 **Diabetic Retinopathy Detection – DeepDRiD**  
+*Transfer Learning • Attention • Grad-CAM • Ensembling*  
+- Trained optimized **ResNet18/34/EfficientNet** models  
+- Added **Spatial Attention** → boosted Kappa score  
+- Built **ensemble models** (stacking, bagging)  
+- Advanced preprocessing: CLAHE, Gaussian blur, circle cropping  
+- Used **Grad-CAM** for interpretability  
 
 
 ---
 
-### 🤖 **AVNet: Continuous Valence–Arousal Estimation (Affective Computing)**  
-Co-author*  
-Contributions:  
-- Performed **literature review** on emotion recognition models  
-- Analyzed datasets (AffectNet, SEWA, AFEW-VA, EMOTIC)  
-- Dataset selection & communication with providers  
-- EMOTIC dataset **preprocessing & cleaning**  
+# 😃 **2. Affective Computing & Emotion AI**
+
+### 🤖 **AVNet – Continuous Valence–Arousal Estimation**  
+- Literature study of emotion models & datasets  
 - Compared architectures (FAN, EmoNet, FER+, FaceNet2ExpNet)  
+- Preprocessed **EMOTIC** dataset  
+- Dataset evaluation & sourcing  
 
 ---
 
-### 📊 **Big Data Engineering & ML with Spark**  
-*PySpark: Batch + Streaming + ML Pipelines*
+# 📊 **3. Machine Learning & Data Engineering (PySpark)**
 
-✔ **Data processing & visualization**  
-— SparkSession, DataFrame API, filtering, transformations, SQL queries  
+### ⚡ **PySpark ML Pipelines – Regression & Classification**  
+Built Spark ML workflows with:  
+- GBTRegressor, MLPClassifier  
+- CrossValidator + ParamGridBuilder  
+- Feature engineering & data preparation  
+
+### 🌩️ **Structured Streaming + ETL Pipelines**  
+- Real-time ingestion with readStream/writeStream  
+- Memory sink, triggers, watermarking  
 
 
-✔ **Structured Streaming**  
-— readStream, writeStream, memory sink, real-time queries  
-— understanding watermarking, late data handling  
-:contentReference[oaicite:9]{index=9}  
-
-✔ **ML Pipelines in Spark MLlib**  
-— GBTRegressor, MLPClassifier  
-— CrossValidator, TrainValidationSplit, ParamGridBuilder  
-— Feature engineering & preprocessing  
-— Performance analysis  
-
+### 🧮 **DataFrame Processing + Visualization**  
+- SQL transformations  
+- Filtering, grouping, joins  
 
 ---
 
-### 🌐 **Graph Analytics: Influencer Interaction Network**  
-- Built a directed social graph dataset  
-- Computed **PageRank** to identify top influencers  
-- Performed **shortest path analysis**  
-- Detected **motifs** (triads)  
-- Visualized influence flow & network structure  
+# 🌐 **4. Knowledge Graphs & SPARQL**
 
+### 📚 **zbMATH Publication Data Querying (RDF + SPARQL)**  
+*Blazegraph | RDF triples | XML Parsing*  
+- Converted large zbMATH datasets to RDF  
+- Loaded RDF into Blazegraph  
+- Wrote SPARQL queries for:  
+  - Top authors  
+  - MSC intersections  
+  - Co-authorship networks  
 
 ---
 
-## ⚙️ What I Build  
-- End-to-end ML workflows  
-- Automation scripts & utilities  
-- Clean, modular Python codebases  
-- Data ingestion + preprocessing pipelines  
-- Model training, validation & monitoring setups  
-- Container-ready ML applications  
+# 🤖 **5. Classical AI Projects (Search, SAT, Planning, Logic)**
+
+### 🧩 **SAT Solver for Nonograms – PySAT**  
+*Constraint solving • CNF encoding • Logic Programming*  
+- Implemented DNF → CNF encoding  
+- Generated SAT clauses for hexagonal + rectangular puzzles  
+- Solved using **Kissat**  
+
+---
+
+### 🧹 **Clean the Wumpus Cave – Search Algorithms**  
+*DFS-based plan finder + plan validator*  
+- Simulated grid cleaning agent  
+- Verified instruction sequences  
+- Generated optimized action plans  
+
+---
+
+### 🏃 **Escape the Wumpus Cave – PDDL + Planning**  
+*Pyperplan | PDDL Domain + Problem generation*  
+- Encoded full cave environment into PDDL  
+- Executed planning with pyperplan  
+- Produced validated escape sequences  
+
+---
+
+# 🕸️ **6. Graph Analytics (Network Analysis)**
+
+### 🌐 **Influencer Analysis with PageRank**  
+- Built directed graphs  
+- Computed PageRank  
+- Found shortest paths & motifs  
+
+---
+
+# 🛠️ **7. Python Automation & Utilities**  
+A growing set of tools:  
+- Bulk file processing  
+- PDF/text automation  
+- CSV processing  
+- Data cleaning utilities  
+- CLI-based Python tools  
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaleem&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=udaleem&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 📫 Contact  
-- **Email:** your_email_here  
-- **LinkedIn:** linkedin.com/in/aleem-ud-din-56011021b/  
+- **Email:** aleemjcs@gmail.com 
+- **LinkedIn:** linkedin.com/in/aleem-ud-din-56011021b/ 
 
 ---
 
-⭐ *I build reliable, scalable, and explainable AI systems — with strong foundations in ML, data engineering, and MLOps practices.*
+⭐ *I build reliable, scalable, and explainable AI/ML systems — with strong foundations in ML, classical AI, data engineering, and MLOps.*
