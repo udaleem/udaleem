@@ -1,166 +1,111 @@
-<h1 align="center">Hi, I'm Aleem 👋</h1>
-<h3 align="center">AI & MLOps Engineer | Machine Learning Practitioner | Python Automation</h3>
+<h1 align="center">Hi, I'm Aleem Ud Din 👋</h1>
+<h3 align="center">Data & AI Engineer | Applied Machine Learning | Decision Support & Analytics</h3>
 
 ---
 
-## 🚀 About Me  
-I am an **AI/MLOps Engineer** with a Master’s degree in **Artificial Intelligence** and extensive hands-on experience across:
+## 🎯 Career Objective
+I am a **Master’s graduate in Artificial Intelligence / Data Analysis** with hands-on experience in **data analytics, operational modelling, and applied machine learning** in both **research and industry environments**.
 
-- **Deep Learning & Medical AI**
-- **Machine Learning pipelines**
-- **Data Engineering with PySpark**
-- **Classical AI (SAT, Planning, Search)**
-- **Knowledge Graphs (RDF, SPARQL)**
-- **Automation & Python Engineering**
+My focus is on applying computational methods to **complex decision-making systems**, including:
+- operational performance analysis  
+- forecasting and planning  
+- data-driven strategy and reporting  
 
-I specialize in designing **scalable, reproducible, and production-ready ML systems**, combining modern ML methods with strong classical AI fundamentals.
+I turn **large, complex datasets** into **actionable insights** for **technical and non-technical stakeholders**, with strong emphasis on **clarity, robustness, and reproducibility**.
 
 ---
 
-## 🧠 Core Skills  
+## 💼 Professional Experience
 
-### **Machine Learning & Deep Learning**
-- CNNs, Transfer Learning (ResNet, EfficientNet)
-- Attention Mechanisms, Grad-CAM
-- Classical ML: KNN, RF, SVM, PCA/LDA
-- Pipeline building (sklearn / PyTorch)
+### **Research Intern — Nokia Solutions & Networks**  
+*July 2025 – Dec 2025*
+- Analyzed **large-scale operational datasets** using Python (Pandas, NumPy) to evaluate system behavior, performance trade-offs, and efficiency.
+- Designed and extended **Rust-based REST APIs** for structured data collection, monitoring, and reporting.
+- Built **automated data-processing pipelines** using Python and Bash for continuous statistical analysis of system metrics.
+- Optimized data handling via **shared-memory–based communication**, improving latency and operational scalability.
+- Automated Linux-based testing, logging, and metric reporting to support performance tracking and operational efficiency studies.
 
-### **MLOps & Engineering**
-- Dockerized ML workflows  
-- Experimentation & reproducibility  
-- Data preprocessing automation  
-- API-first design (FastAPI/Flask)
+### **Data Analyst — Primary & Secondary Healthcare Department, Lahore**  
+*2022 – 2024*
+- Analyzed large healthcare datasets to support **operational planning, forecasting, and resource optimization**.
+- Developed predictive models in Python (Pandas, NumPy, Scikit-learn) to support policy and management decision-making.
+- Performed preprocessing, validation, and evaluation using **accuracy and F1-score** metrics to ensure reliable outputs.
+- Delivered analytical insights to stakeholders for **evidence-based operational and strategic planning**.
 
-### **Big Data & Data Engineering**
-- PySpark (MLlib, Streaming, SQL DataFrames)
+---
+
+## 🧠 Core Skills
+
+### **Data Analysis & Modelling**
+- Statistical analysis & forecasting
+- Performance metrics & data validation
+- Exploratory Data Analysis (EDA)
+- Decision-support modelling
+
+### **Machine Learning**
+- Classical ML: KNN, Random Forest, SVM
+- Dimensionality reduction: PCA, LDA
+- Deep Learning: CNN, LSTM (sensor & image data)
+- Evaluation: confusion matrix, F1-score
+
+### **Big Data & Engineering**
+- Apache Spark / PySpark (MLlib, SQL, Streaming)
 - ETL pipelines & feature engineering
-- Graph algorithms (PageRank, shortest paths, motif analysis)
+- Scalable analytics on large datasets (150k+ records)
 
-### **Classical AI & Reasoning**
-- SAT solvers (PySAT)
-- Planning with PDDL + Pyperplan
-- Search algorithms (DFS, BFS)
-- Knowledge Graphs: RDF, SPARQL, Blazegraph
+### **Classical AI & Probabilistic Reasoning**
+- Search algorithms (DFS, BFS, Dijkstra)
+- Planning (PDDL, Pyperplan)
+- SAT solving & CNF encoding
+- Bayesian Networks & Markov Models
+- Decision-making under uncertainty (MDPs)
 
 ### **Tools**
-Python • PyTorch • TensorFlow • NumPy • Pandas  
-Spark • MLlib • Matplotlib • Docker • Linux • Git/GitHub  
+Python • SQL • Pandas • NumPy • Scikit-learn  
+PySpark • PowerBI • Excel • PowerPoint  
+Docker • Linux • Git/GitHub  
 
 ---
 
-# 📂 **PROJECTS**
+# 📂 PROJECTS (Selected)
 
-# 🩺 **1. Deep Learning Projects**
+### 🧭 **Grid Coverage Planning (Classical AI)**
+- Search-based coverage planning using graph modelling and DFS
+- Plan verification and plan synthesis under unknown start conditions
+- Robust handling of constraints and wrap-around grids  
+🔒 *Code is private — available upon request for academic/professional review.*
 
-### 🔥 **Diabetic Retinopathy Detection – DeepDRiD**  
-*Transfer Learning • Attention • Grad-CAM • Ensembling*  
-- Trained optimized **ResNet18/34/EfficientNet** models  
-- Added **Spatial Attention** → boosted Kappa score  
-- Built **ensemble models** (stacking, bagging)  
-- Advanced preprocessing: CLAHE, Gaussian blur, circle cropping  
-- Used **Grad-CAM** for interpretability  
+### 🧩 **SAT-Based Puzzle Solving (Nonograms)**
+- Encoded puzzle constraints into CNF
+- Solved rectangular + hexagonal nonograms using SAT solvers
+- Compared encoding strategies and scalability  
+🔒 *Code is private — available upon request.*
 
+### 📊 **Large-Scale Data Analytics with Spark (PySpark)**
+- Built scalable PySpark pipelines on structured datasets
+- Applied ensemble methods for pattern discovery and comparison
+- Produced structured insights for reporting and decision support  
+🔒 *Code is private — available upon request.*
 
----
-
-# 😃 **2. Affective Computing & Emotion AI**
-
-### 🤖 **AVNet – Continuous Valence–Arousal Estimation**  
-- Literature study of emotion models & datasets  
-- Compared architectures (FAN, EmoNet, FER+, FaceNet2ExpNet)  
-- Preprocessed **EMOTIC** dataset  
-- Dataset evaluation & sourcing  
-
----
-
-# 📊 **3. Machine Learning & Data Engineering (PySpark)**
-
-### ⚡ **PySpark ML Pipelines – Regression & Classification**  
-Built Spark ML workflows with:  
-- GBTRegressor, MLPClassifier  
-- CrossValidator + ParamGridBuilder  
-- Feature engineering & data preparation  
-
-### 🌩️ **Structured Streaming + ETL Pipelines**  
-- Real-time ingestion with readStream/writeStream  
-- Memory sink, triggers, watermarking  
-
-
-### 🧮 **DataFrame Processing + Visualization**  
-- SQL transformations  
-- Filtering, grouping, joins  
+### 🧠 **Probabilistic & Decision Models**
+- Bayesian Networks for inference tasks
+- Hidden Markov Models for tracking under uncertainty
+- MDP-based decision-making with value iteration  
+🔒 *Code is private — available upon request.*
 
 ---
 
-# 🌐 **4. Knowledge Graphs & SPARQL**
-
-### 📚 **zbMATH Publication Data Querying (RDF + SPARQL)**  
-*Blazegraph | RDF triples | XML Parsing*  
-- Converted large zbMATH datasets to RDF  
-- Loaded RDF into Blazegraph  
-- Wrote SPARQL queries for:  
-  - Top authors  
-  - MSC intersections  
-  - Co-authorship networks  
-
----
-
-# 🤖 **5. Classical AI Projects (Search, SAT, Planning, Logic)**
-
-### 🧩 **SAT Solver for Nonograms – PySAT**  
-*Constraint solving • CNF encoding • Logic Programming*  
-- Implemented DNF → CNF encoding  
-- Generated SAT clauses for hexagonal + rectangular puzzles  
-- Solved using **Kissat**  
-
----
-
-### 🧹 **Clean the Wumpus Cave – Search Algorithms**  
-*DFS-based plan finder + plan validator*  
-- Simulated grid cleaning agent  
-- Verified instruction sequences  
-- Generated optimized action plans  
-
----
-
-### 🏃 **Escape the Wumpus Cave – PDDL + Planning**  
-*Pyperplan | PDDL Domain + Problem generation*  
-- Encoded full cave environment into PDDL  
-- Executed planning with pyperplan  
-- Produced validated escape sequences  
-
----
-
-# 🕸️ **6. Graph Analytics (Network Analysis)**
-
-### 🌐 **Influencer Analysis with PageRank**  
-- Built directed graphs  
-- Computed PageRank  
-- Found shortest paths & motifs  
-
----
-
-# 🛠️ **7. Python Automation & Utilities**  
-A growing set of tools:  
-- Bulk file processing  
-- PDF/text automation  
-- CSV processing  
-- Data cleaning utilities  
-- CLI-based Python tools  
-
----
-
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udaleem&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## 📫 Contact  
-- **Email:** aleemjcs@gmail.com 
-- **LinkedIn:** linkedin.com/in/aleem-ud-din-56011021b/ 
+## 📫 Contact
+- **Email:** aleemjcs@gmail.com
+- **LinkedIn:** https://linkedin.com/in/aleem-ud-din-56011021b/  
 
 ---
 
-⭐ *I build reliable, scalable, and explainable AI/ML systems — with strong foundations in ML, classical AI, data engineering, and MLOps.*
+⭐ *Focused on data-driven decision-making, operational analytics, and applied AI for real-world systems.*
