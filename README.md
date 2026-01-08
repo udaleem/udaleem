@@ -1,97 +1,90 @@
 <h1 align="center">Hi, I'm Aleem Ud Din 👋</h1>
-<h3 align="center">Data & AI Engineer | Applied Machine Learning | Decision Support & Analytics</h3>
+<h3 align="center">
+Machine Learning Engineer | Data Analyst | Applied AI & Analytics
+</h3>
 
 ---
 
-## 🎯 Career Objective
-I am a **Master’s graduate in Artificial Intelligence / Data Analysis** with hands-on experience in **data analytics, operational modelling, and applied machine learning** in both **research and industry environments**.
+## 👋 About Me
+I am a **Machine Learning Engineer / Data Analyst** with a Master’s background in **Artificial Intelligence and Data Analysis**, and hands-on experience applying **machine learning, analytics, and data engineering** to real-world problems in **industry and healthcare**.
 
-My focus is on applying computational methods to **complex decision-making systems**, including:
-- operational performance analysis  
-- forecasting and planning  
-- data-driven strategy and reporting  
+I focus on:
+- building **reliable ML models**
+- analyzing **large, complex datasets**
+- translating data into **actionable insights** for decision-making
 
-I turn **large, complex datasets** into **actionable insights** for **technical and non-technical stakeholders**, with strong emphasis on **clarity, robustness, and reproducibility**.
+My work emphasizes **practical impact, interpretability, and reproducibility**, rather than experimental or black-box solutions.
 
 ---
 
 ## 💼 Professional Experience
 
 ### **Research Intern — Nokia Solutions & Networks**  
-*July 2025 – Dec 2025*
-- Analyzed **large-scale operational datasets** using Python (Pandas, NumPy) to evaluate system behavior, performance trade-offs, and efficiency.
-- Designed and extended **Rust-based REST APIs** for structured data collection, monitoring, and reporting.
-- Built **automated data-processing pipelines** using Python and Bash for continuous statistical analysis of system metrics.
-- Optimized data handling via **shared-memory–based communication**, improving latency and operational scalability.
-- Automated Linux-based testing, logging, and metric reporting to support performance tracking and operational efficiency studies.
+*July 2025 – Continue*
+- Analyzed **large-scale operational datasets** using Python (Pandas, NumPy) to evaluate system performance, trade-offs, and efficiency.
+- Built **automated data-processing pipelines** for continuous metric collection and analysis.
+- Designed and extended **REST APIs (Rust)** to support structured data ingestion, monitoring, and reporting.
+- Improved processing efficiency and latency by optimizing data handling and communication mechanisms.
+- Automated Linux-based testing, logging, and reporting to support data-driven performance analysis.
 
 ### **Data Analyst — Primary & Secondary Healthcare Department, Lahore**  
 *2022 – 2024*
 - Analyzed large healthcare datasets to support **operational planning, forecasting, and resource optimization**.
-- Developed predictive models in Python (Pandas, NumPy, Scikit-learn) to support policy and management decision-making.
-- Performed preprocessing, validation, and evaluation using **accuracy and F1-score** metrics to ensure reliable outputs.
-- Delivered analytical insights to stakeholders for **evidence-based operational and strategic planning**.
+- Developed **machine learning models** using Python (Pandas, NumPy, Scikit-learn) for decision support.
+- Performed data preprocessing, validation, and evaluation using **accuracy and F1-score** metrics.
+- Delivered insights to technical and non-technical stakeholders to support **evidence-based decisions**.
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Technical Skills
 
-### **Data Analysis & Modelling**
-- Statistical analysis & forecasting
-- Performance metrics & data validation
-- Exploratory Data Analysis (EDA)
-- Decision-support modelling
-
-### **Machine Learning**
-- Classical ML: KNN, Random Forest, SVM
+### **Machine Learning & Analytics**
+- Supervised learning: KNN, Random Forest, SVM
+- Deep learning: CNN, LSTM (image & sensor data)
 - Dimensionality reduction: PCA, LDA
-- Deep Learning: CNN, LSTM (sensor & image data)
-- Evaluation: confusion matrix, F1-score
+- Model evaluation: confusion matrix, F1-score, Cohen’s Kappa
 
-### **Big Data & Engineering**
+### **Data Analysis & Engineering**
+- Data preprocessing, validation, and feature engineering
+- Exploratory Data Analysis (EDA) & statistical analysis
+- Forecasting and performance metrics
+- ETL pipelines and batch processing
+
+### **Big Data**
 - Apache Spark / PySpark (MLlib, SQL, Streaming)
-- ETL pipelines & feature engineering
-- Scalable analytics on large datasets (150k+ records)
+- Scalable analytics on large structured datasets (150k+ records)
 
-### **Classical AI & Probabilistic Reasoning**
-- Search algorithms (DFS, BFS, Dijkstra)
-- Planning (PDDL, Pyperplan)
-- SAT solving & CNF encoding
-- Bayesian Networks & Markov Models
-- Decision-making under uncertainty (MDPs)
+### **Probabilistic & Classical AI**
+- Bayesian Networks, Hidden Markov Models
+- Search & planning (DFS, BFS, PDDL)
+- Optimization and decision-making under uncertainty
 
 ### **Tools**
 Python • SQL • Pandas • NumPy • Scikit-learn  
-PySpark • PowerBI • Excel • PowerPoint  
-Docker • Linux • Git/GitHub  
+PyTorch • Apache Spark / PySpark  
+PowerBI • Excel • Docker • Linux • Git/GitHub  
 
 ---
 
-# 📂 PROJECTS (Selected)
+## 📂 Selected Projects
 
-### 🧭 **Grid Coverage Planning (Classical AI)**
-- Search-based coverage planning using graph modelling and DFS
-- Plan verification and plan synthesis under unknown start conditions
-- Robust handling of constraints and wrap-around grids  
-🔒 *Code is private — available upon request for academic/professional review.*
+### 🧠 **Applied Machine Learning for Structured Data**
+- Built CNN-based classifiers for structured scientific data
+- Designed full ML pipelines from preprocessing to evaluation
+- Focused on reproducibility and interpretability  
+🔒 *Code available upon request.*
 
-### 🧩 **SAT-Based Puzzle Solving (Nonograms)**
-- Encoded puzzle constraints into CNF
-- Solved rectangular + hexagonal nonograms using SAT solvers
-- Compared encoding strategies and scalability  
-🔒 *Code is private — available upon request.*
+### 📊 **Large-Scale Data Analytics with PySpark**
+- Developed scalable analytics pipelines for large datasets
+- Applied ML models for comparative and performance analysis
+- Generated decision-support insights for reporting  
+🔒 *Code available upon request.*
 
-### 📊 **Large-Scale Data Analytics with Spark (PySpark)**
-- Built scalable PySpark pipelines on structured datasets
-- Applied ensemble methods for pattern discovery and comparison
-- Produced structured insights for reporting and decision support  
-🔒 *Code is private — available upon request.*
-
-### 🧠 **Probabilistic & Decision Models**
-- Bayesian Networks for inference tasks
-- Hidden Markov Models for tracking under uncertainty
-- MDP-based decision-making with value iteration  
-🔒 *Code is private — available upon request.*
+### 🧭 **Decision-Making & Probabilistic Models**
+- Implemented Bayesian inference and HMM-based state estimation
+- Applied uncertainty-aware models to decision-support problems
+- Designed logic-based and search-based planning solutions  
+🔒 *Code available upon request.*
 
 ---
 
@@ -103,9 +96,9 @@ Docker • Linux • Git/GitHub
 ---
 
 ## 📫 Contact
-- **Email:** aleemjcs@gmail.com
-- **LinkedIn:** https://linkedin.com/in/aleem-ud-din-56011021b/  
+- **Email:** aleemudcs@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/aleem-ud-din-56011021b/
 
 ---
 
-⭐ *Focused on data-driven decision-making, operational analytics, and applied AI for real-world systems.*
+⭐ *Interested in Machine Learning Engineer, Data Analyst, and Applied AI roles where data-driven solutions create real operational impact.*
